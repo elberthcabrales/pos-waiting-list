@@ -1,7 +1,7 @@
 "use client";
 
 import { WaitlistForm } from '@/components/ui/waitlist-form';
-import { Bot, BarChart3, TrendingUp } from 'lucide-react';
+import { Bot, BarChart3, Package, TrendingUp } from 'lucide-react';
 import { Toaster } from '@/components/ui/sonner';
 
 export default function Home() {
